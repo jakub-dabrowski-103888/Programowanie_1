@@ -34,7 +34,7 @@ def uruchom():
             if ilosc_tygodni <= 0:
                 os.system('cls' if os.name == 'nt' else 'clear')
                 print("Błąd: Liczba tygodni musi być wieksza niz zero. Sprobuj ponownie.\n")
-                continue  # Wracamy
+                continue
 
             break
 

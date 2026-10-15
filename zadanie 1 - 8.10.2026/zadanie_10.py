@@ -1,6 +1,6 @@
 #Zadanie 10 - wersja obiektowa
 
-
+import os
 
 def wyznacz_ocene(punkty):
     if 0 <= punkty <= 49:
