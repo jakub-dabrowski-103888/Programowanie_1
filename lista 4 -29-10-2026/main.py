@@ -32,7 +32,7 @@ print(f"Ostani pomiar: {Pomiary[rozmiar-1]}" )
 
 wyswietl_pomiary(Pomiary)
 
-co_drugi_pomiar = Pomiary[::2]
+co_drugi_pomiar = Pomiary[1::2]
 odwrotna_kolejnosc= Pomiary[::-1]
 kopia=Pomiary.copy()
 kopia[0]=0
