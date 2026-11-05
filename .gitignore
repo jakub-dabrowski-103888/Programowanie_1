@@ -1,0 +1,10 @@
+# Lokalne srodowisko wirtualne
+.venv/
+# Cache i skompilowane pliki Pythona
+__pycache__/
+*.pyc
+# Lokalne zmienne i dane poufne
+.env
+# Pliki systemowe
+.DS_Store
+Thumbs.db
